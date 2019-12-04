@@ -1,3 +1,3 @@
-#index:
-#    path: /
-#    controller: App\Controller\DefaultController::index
+stage_dut_Accueil:
+    path: /
+    controller: App\Controller\StageDutController::index
